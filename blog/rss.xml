@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Jun Su's notes (Public) Blog</title>
+        <title>Jun Su's technical notes (Public) Blog</title>
         <link>https://junsulee75.github.io/blog</link>
-        <description>Jun Su's notes (Public) Blog</description>
+        <description>Jun Su's technical notes (Public) Blog</description>
         <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
